@@ -4,6 +4,11 @@ var particles = new Array();
 var attractor;
 
 function setup() {
+  // For mobile perfomances.
+  if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+    nbOfPartible = 7;
+  }
+  
   var canvas = createCanvas(windowWidth, contentHeight);
   canvas.parent('header-sketch');
 
@@ -40,7 +45,7 @@ function windowResized() {
     attractor.updatePosition(width / 2, height / 2);
 }
 
-// constants for the Particle class.
+// Constants for the Particle class.
 var G = 50;
 var MAX_VEL = 10;
 
