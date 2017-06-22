@@ -1,12 +1,4 @@
 
 #header-sketch {
-  margin: auto;
-  width: $content-width;
-}
-
-@include media-query($on-laptop) {
-  #header-sketch {
-    margin: none;
-    width: 100%;
-  }
+  width: 100%;
 }
