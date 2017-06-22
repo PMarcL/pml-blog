@@ -6,9 +6,9 @@ var attractor;
 function setup() {
   // For mobile perfomances.
   if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
-    nbOfPartible = 7;
+    nbOfParticle = 7;
   }
-  
+
   var canvas = createCanvas(windowWidth, contentHeight);
   canvas.parent('header-sketch');
 
