@@ -151,3 +151,13 @@ pre {
     padding-top: 5px;
   }
 }
+
+.bio-photo {
+  float: right;
+}
+
+@include media-query($on-palm) {
+  .bio-photo {
+    float: none;
+  }
+}

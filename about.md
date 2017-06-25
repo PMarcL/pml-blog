@@ -4,12 +4,12 @@ title: À propos
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Étant donné que vous avez volontairement navigué à cette page, vous voulez probablement en savoir plus sur les origines de ce blog et de son auteur. Je me sens donc un peu obligé de vous en dire un peu plus. Allons-y!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+## Auteur
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<img class="bio-photo" src="{{ site.baseurl }}/assets/img/pml.jpg" width="300" height="300">
+
+Mon nom est Pierre-Marc Levasseur. Initialement technicien de son au cégep de Drummondville, j'ai réorienté ma carrière vers le monde de l'informatique.
+
+## Blog
