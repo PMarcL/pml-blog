@@ -3,8 +3,7 @@ email: pmleva2@gmail.com
 author: Pierre-Marc Levasseur
 description: >
   Blog personnel pour partager mes expériences et mes opinions en tant que développeur logiciel.
-baseurl: "/pml-blog"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://pml-blog.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  PMarcL
 
 # comments
