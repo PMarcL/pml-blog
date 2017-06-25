@@ -11,8 +11,10 @@
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
+  {% if page.sketch %}
   <script type="text/javascript" src="/assets/js/libs/p5.min.js"></script>
-  <script type="text/javascript" src="/assets/js/headerSketch.js"></script>
+  <script type="text/javascript" src="/assets/js/{{ page.sketch }}"></script>
+  {% endif %}
 
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
