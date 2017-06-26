@@ -19,7 +19,7 @@ function windowResized() {
 }
 
 function draw() {
-  background(255);
+  background(253);
 
   var numberOfHorizontalHex = floor(width / hexWidth * 2) + nbVisibleHex;
 

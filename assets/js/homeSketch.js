@@ -20,7 +20,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background(253);
 
   for(var i = 0; i < nbOfParticle; i++) {
     particles[i].applyAttraction(attractor);
