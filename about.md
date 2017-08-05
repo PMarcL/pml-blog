@@ -17,16 +17,16 @@ Vous pouvez consulter mon curriculum vitae sur ma page Linkedin [ici](https://ww
 
 ## Blog
 
-L'idée derrière cette page web est simplement de partager mon expérience chez Google. Dans ces articles, je vais documenter les choses que je trouve intéressantes et mon état d'esprit à travers les différentes épreuves que je vais traverser. Je vais probablement aussi faire le parallèle avec ma formation à l'université simplement pour indiquer ce qui m'a été utile, ce que j'aurais aimé que la formation couvre, ce qui méritrait d'être mis à jour, etc.
+L'idée derrière cette page web est simplement de partager mon expérience chez Google. Dans ces articles, je vais documenter les choses que je trouve intéressantes et mon état d'esprit à travers les différentes épreuves que je vais traverser. Je vais probablement aussi faire le parallèle avec ma formation à l'université simplement pour indiquer ce qui m'a été utile, ce que j'aurais aimé que la formation couvre, ce qui mériterait d'être mis à jour, etc.
 
 Pour l'instant, j'écris les publications en français et je reste assez en surface côté technique. Peut-être qu'éventuellement, je vais les écrire en anglais et je vais couvrir des sujets beaucoup plus techniques dépendant de qui s'intéresse à cette page web.
 
 ## Inspirations
 
-Voici quelques chaînes YouTube que je trouve intéressantes pour les développeurs comme moi (si jamais vous chercher quelque chose à regarder):
+Voici quelques chaînes YouTube que je trouve intéressantes pour les développeurs comme moi (si vous chercher quelque chose à regarder):
 * [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : Tutoriels et challenges de programmation avec `p5.js` (la librairie que j'utilise pour faire les animations dans les pages du site) et `Processing`.
 * [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg) : Entrevues et discussions intéressantes sur le monde de l'informatique et des affaires.
-* [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) : Présentations sur divers sujets entourant les jeux vidéos (programmation, animation, conception audio, etc.) par des développeurs indépendants et professionels.
+* [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) : Présentations sur divers sujets entourant les jeux vidéo (programmation, animation, conception audio, etc.) par des développeurs indépendants et professionnels.
 * [Jonathan Blow](https://www.youtube.com/channel/UCCuoqzrsHlwv1YyPKLuMDUQ) : Une des personnes qui m'a inspiré à devenir développeur logiciel. Il construit présentement un nouveau langage de programmation qui ressemble au C++ (mais qui compile beaucoup plus vite).
 * [Brian Will](https://www.youtube.com/user/briantwill) : Prenez 45 minutes de votre temps pour regarder son vidéo intitulé 'Object-Oriented Programming is Bad'.
 * [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) et [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
@@ -34,4 +34,4 @@ Voici quelques chaînes YouTube que je trouve intéressantes pour les développe
 
 ## Contact
 
-Si jamais vous voulez entrer en contact avec moi, envoyez moi un courriel à l'adresse suivante: <a href="mailto:pmleva2@gmail.com" target="_top">pmleva2@gmail.com</a>.
+Si vous voulez entrer en contact avec moi, envoyez-moi un courriel à l'adresse suivante: <a href="mailto:pmleva2@gmail.com" target="_top">pmleva2@gmail.com</a>.
