@@ -9,7 +9,7 @@ sketch: aboutSketch.js
 
 ## Auteur
 
-<img class="bio-photo" src="{{ site.baseurl }}/assets/img/pml.jpg" width="250" height="250">
+<img class="right-photo" src="{{ site.baseurl }}/assets/img/pml.jpg" width="250" height="250">
 
 Mon nom est Pierre-Marc Levasseur. Je suis développeur logiciel. Ma formation est assez simple. J'ai complété mon baccalauréat en informatique en 2017. Durant cette formation, j'ai eu la chance de travailler pour quelques entreprises dont [Olympus NDT](https://www.olympus-ims.com/en/) et [Coveo](http://www.coveo.com/). J'ai travaillé sur plusieurs systèmes assez variés à différents niveaux d'abstraction (du web *frontend* jusqu'au C++ de bas niveau). Je m'intéresse à toutes sortes de choses dans mon domaine. Infographie, compilation, web, etc. Pour l'instant, je n'ai pas vraiment de spécialisation et je touche un peu à tout.
 

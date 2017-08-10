@@ -152,13 +152,14 @@ pre {
   }
 }
 
-.bio-photo {
+.right-photo {
   float: right;
   margin: 0 10px 10px 10px;
 }
 
 @include media-query($on-palm) {
-  .bio-photo {
+  .right-photo {
     float: none;
+    margin: auto;
   }
 }
