@@ -32,6 +32,8 @@ Tout comme la première journée, les nouveaux assistent à une autre série de 
 
 Beau souvenir!
 
+Autre petit détail, il y a des bidets sur les toilettes chez Google. J'avais jamais essayé cette technologie. Si vous vous demandez où est mon trou de cul, il y a une toilette qui le sais en criss à Mountain View. Pile-poil.
+
 ## Jour 3
 
 Première série de formations techniques pour les ingénieurs. Ma prochaine semaine sera occupée par les différents cours nécessaires pour apprendre l'utilisation des outils et aussi pour apprendre les bonnes pratiques chez Google. Un premier présentateur super dynamique nous explique les différents grades d'ingénieur et comment monter l'échelle durant notre carrière. Il nous explique aussi comment tirer avantage du 20% de notre temps qui nous est alloué pour faire des projets différents de notre projet principal. Il nous est tout à fait possible de démarrer un nouveau projet et celui-ci pourrait un jour devenir notre travail à temps plein.
